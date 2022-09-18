@@ -1,0 +1,2 @@
+const BANK_ADDRESS = "0xbA53EbdC7AD1A3e2bc3D460B9C10bfcf520C0494";
+module.exports = { BANK_ADDRESS };
